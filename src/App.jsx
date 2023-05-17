@@ -4,8 +4,8 @@ import { Configuration, OpenAIApi } from 'openai'
 
 // definindo os parâmetro de configuração
 const configuration = new Configuration({
-  organization: "org-t6BwUzuqlcGVSy5gFfQdmWs8",
-  apiKey: "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"
+  organization: "SUA ID DA ORGANIZAÇÃO",
+  apiKey: "SUA SECRET KEY"
 })
 
 // inicializando a instância do OpenAI API
